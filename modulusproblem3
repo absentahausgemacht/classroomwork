@@ -1,0 +1,4 @@
+# frame count can equal 60, 120, 180, 240 
+
+frame_count = 120 
+lasers_shot = frame_count // 60

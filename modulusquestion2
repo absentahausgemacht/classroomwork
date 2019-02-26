@@ -1,0 +1,4 @@
+total_minutes  = 100
+hours = total_minutes // 60 
+minutes = total_minutes % 60 
+print( hours, minutes)
